@@ -1,0 +1,50 @@
+.New-User {
+    padding: 10px;
+    width: 900px;
+    max-width: 100%;
+    border-radius: 10px;
+    border-color: black;
+    box-shadow: 3px 3px 7px 0px #00000074;
+    margin-top: 17px;
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-color: black;
+    
+}
+.selectedcontentcss,::picker(select){
+  appearance: base-select;
+  border-color: rgb(214, 214, 214);
+  
+}
+
+.selectedcontentcss option {
+ padding: 10px;
+}
+::picker-icon{
+  display: none;
+}
+.selectedcontentcss option::checkmark{
+  display: none;
+
+  
+}
+select,
+::picker(select) {
+  top: 5px;
+  border-radius: 5px;
+}
+.head-m {
+    font-size: 50px !important;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+     margin-left: auto;
+  margin-right: auto;
+}
+.ALLNAMEADMIN{
+    text-align: center;
+    font-size: larger;
+    margin-top: 20px;
+    margin-bottom: 20px ;
+}

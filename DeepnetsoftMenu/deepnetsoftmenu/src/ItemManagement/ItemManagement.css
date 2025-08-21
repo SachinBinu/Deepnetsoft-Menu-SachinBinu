@@ -1,0 +1,22 @@
+.selectedcontentcss,::picker(select){
+  appearance: base-select;
+  border-color: rgb(214, 214, 214);
+  
+}
+
+.selectedcontentcss option {
+ padding: 10px;
+}
+::picker-icon{
+  display: none;
+}
+.selectedcontentcss option::checkmark{
+  display: none;
+
+  
+}
+select,
+::picker(select) {
+  top: 5px;
+  border-radius: 5px;
+}

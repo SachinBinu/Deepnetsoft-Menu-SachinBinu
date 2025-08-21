@@ -1,0 +1,15 @@
+.CompanyInfoBg{
+    min-width: 1440px;
+    height: 45px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #1b160f;
+}
+.condition{
+    margin-left: 20px;
+}
+.TextClrr{
+      font-family: "Lato", sans-serif;
+      color: #857878;
+   
+}

@@ -1,0 +1,73 @@
+.Bookings {
+    height: 170px;
+    width: 400px;
+    max-width: 600px;
+    border-style: solid;
+    border-color: #C5A059 !important;
+    border-width: 1px;
+    border-radius: 12px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 5px;
+    padding: 20px !important;
+margin-bottom: 25px;
+}
+
+.FooterInfoMain {
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+    padding-bottom: 10px;
+}
+
+.ConnectionCss {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    color: #C5A059;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.InfoCss {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 100%;
+
+    color: #857878;
+    padding-top: 10px;
+    text-align: center;
+}
+.IconsCss{
+    text-align: center;
+    padding-top: 20px;
+     
+}
+.DeepnetsoftCss {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 35px;
+    line-height: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.FindUsCss {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 3%;
+    text-transform: uppercase;
+    color: #C5A059;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    text-align: center;
+}
