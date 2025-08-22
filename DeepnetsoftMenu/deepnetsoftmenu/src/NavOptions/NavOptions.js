@@ -49,7 +49,7 @@ function NavOptions() {
 
       {/* Hero Section */}
       <div className="text-center d-flex flex-column justify-content-center align-items-center HeroSection">
-        <h1 className="fw-bold display-4 MenuHead" style={{ color: "#FFFFFF" }}>
+        <h1 className="fw-bold display-4 MenuHead mb-3" style={{ color: "#FFFFFF" }}>
           MENU
         </h1>
         <p className="text-light w-50">
