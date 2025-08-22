@@ -45,3 +45,5 @@ app.delete("/Item/:id",async(req,res)=>{
 app.listen(8080, () => {
     console.log("Server Started");
 })
+
+module.exports=app()

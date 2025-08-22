@@ -1,5 +1,5 @@
 const mongoose= require('mongoose');
-mongoose.connect("mongodb://localhost:27017/deepnetsoftmenu")
+mongoose.connect("mongodb+srv://Admin:Admin123@menubackend.gzculso.mongodb.net/?retryWrites=true&w=majority&appName=MenuBackend")
 let db=mongoose.connection
 db.on("error",()=>{
     console.log("DB Connection error")
