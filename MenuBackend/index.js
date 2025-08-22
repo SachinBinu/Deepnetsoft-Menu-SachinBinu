@@ -46,4 +46,4 @@ app.listen(8080, () => {
     console.log("Server Started");
 })
 
-module.exports=app()
+module.exports = app;
