@@ -51,7 +51,6 @@ function Food() {
 
                         {/* Salads Section */}
                         <div className='SaladsCss'>
-                            <img style={{ maxHeight: '230px', maxWidth: '230px', position: 'absolute', overflow: 'visible', right: 250, top:1350}} src={Salad} />
 
                             <h2 className="Salad-title mt-4">SALADS</h2>
                             <p className="menu-sub">Option to add protein</p>
