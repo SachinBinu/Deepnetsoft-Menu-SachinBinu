@@ -53,9 +53,7 @@ function NavOptions() {
           MENU
         </h1>
         <p className="text-light w-50">
-          Please take a look at our menu featuring food, drinks, and brunch. If
-          you’d like to place an order, use the "Order Online" button located
-          below the menu.
+          Explore our thoughtfully curated menu featuring a delightful mix of food, drinks, and brunch options. From hearty meals to refreshing beverages, there’s something to satisfy every craving.
         </p>
       </div>
 
